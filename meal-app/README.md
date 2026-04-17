@@ -31,7 +31,7 @@ npm run build
 
 ## Live Demo
 
-[Add your Vercel link here]
+https://raiqa-assignment-19e5enw75-sagars-projects-a966d63c.vercel.app/
 
 ---
 
